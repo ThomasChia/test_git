@@ -1,2 +1,3 @@
 Hello World!
 Testing adding to this text file.
+Testing committing to git.
